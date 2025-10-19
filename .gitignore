@@ -1,0 +1,16 @@
+# Object files
+*.o
+
+# Executables
+my3proc
+prog1
+
+# Codio environment files
+.settings/
+.guides/
+images/
+
+# Misc build files
+*.out
+*.log
+
